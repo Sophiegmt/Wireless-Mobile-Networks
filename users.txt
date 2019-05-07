@@ -1,0 +1,1 @@
+[{"username":"user1","password":"abc","macAddr":null, "minTemp":"15", "maxTemp":"20", "WBstatus":"1"},{"username":"user2","password":"def","macAddr":null, "minTemp":"17", "maxTemp":"20", "WBstatus":"1"}]
